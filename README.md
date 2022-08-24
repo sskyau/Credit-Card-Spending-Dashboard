@@ -1,4 +1,4 @@
-# Credit Card Spending Dashboard
+# Credit Card Spending PowerBI Dashboard
 
 Data from: https://data.delaware.gov/Government-and-Finance/Credit-Card-Spend-by-Merchant/8pzf-ge27
 
